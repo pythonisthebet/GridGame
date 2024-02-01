@@ -4,9 +4,9 @@
              x:Class="GridGame.Views.Boss"
              Title="Boss">
     <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+        <!--grid 2 row 4 colloumes for dragon boss
+        1 rows of space
+        u + companion
+        -->
     </VerticalStackLayout>
 </ContentPage>

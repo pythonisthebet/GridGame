@@ -1,8 +1,8 @@
 namespace GridGame.Views;
 
-public partial class event : ContentPage
+public partial class Event : ContentPage
 {
-	public event()
+	public Event()
 	{
 		InitializeComponent();
 	}
