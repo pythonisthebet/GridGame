@@ -10,7 +10,7 @@
             VerticalOptions="Center">
             <!--logo-->
             <!--entry (name)-->
-            <!--boy or a girl? button-->
+            <!--boy or a girl? button that opens a cheracter picture you can choose from options-->
             <!--18+ (not mandatory for the game) bool-->
             <!--confirem botton that chenges page to map and inisialises user obj-->
             
